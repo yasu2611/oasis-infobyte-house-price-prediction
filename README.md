@@ -12,14 +12,9 @@
 ![Project](https://img.shields.io/badge/Project-3-green)
 
 
-
-
-
-
-
-
-
 🏡 House Price Prediction using Linear Regression
+
+
 📌 Project Overview
 
 This project focuses on predicting house prices based on different features using a Linear Regression model.

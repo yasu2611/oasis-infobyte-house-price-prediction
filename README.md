@@ -1,3 +1,24 @@
+![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Data%20Analytics-black)
+![Project Level](https://img.shields.io/badge/Level-2-darkred)
+![Language](https://img.shields.io/badge/Language-Python-black)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+![Category](https://img.shields.io/badge/Category-Regression-purple)
+![Algorithm](https://img.shields.io/badge/Model-Linear%20Regression-brightgreen)
+![Evaluation](https://img.shields.io/badge/Metric-R2%20%7C%20MSE%20%7C%20MAE-red)
+
+![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Internship%202025-blueviolet)
+![Track](https://img.shields.io/badge/Track-Data%20Analytics-blue)
+![Project](https://img.shields.io/badge/Project-3-green)
+
+
+
+
+
+
+
+
+
 🏡 House Price Prediction using Linear Regression
 📌 Project Overview
 

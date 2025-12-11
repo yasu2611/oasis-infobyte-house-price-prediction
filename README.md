@@ -131,6 +131,8 @@ Model performance was reasonably good (based on R² and error metrics)
 
 The project demonstrates how ML can help estimate property prices# oasis-infobyte-house-price-prediction
 
+https://github.com/yasu2611/oasis-infobyte-retail-sales-eda
+
 ✅ Conclusion
 
 Linear Regression is a simple yet powerful algorithm for predicting house prices.
